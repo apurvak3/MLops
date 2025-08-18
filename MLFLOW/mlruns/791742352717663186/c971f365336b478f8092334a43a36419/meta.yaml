@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/791742352717663186/c971f365336b478f8092334a43a36419/artifacts
+end_time: 1755471802732
+entry_point_name: ''
+experiment_id: '791742352717663186'
+lifecycle_stage: active
+run_id: c971f365336b478f8092334a43a36419
+run_name: amusing-cod-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755471773754
+status: 3
+tags: []
+user_id: kanth

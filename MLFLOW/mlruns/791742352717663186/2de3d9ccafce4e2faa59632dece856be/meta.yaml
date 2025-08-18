@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/791742352717663186/2de3d9ccafce4e2faa59632dece856be/artifacts
+end_time: 1755476213463
+entry_point_name: ''
+experiment_id: '791742352717663186'
+lifecycle_stage: active
+run_id: 2de3d9ccafce4e2faa59632dece856be
+run_name: nebulous-fox-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755476188886
+status: 3
+tags: []
+user_id: kanth
